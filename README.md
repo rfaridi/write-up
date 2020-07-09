@@ -1,5 +1,7 @@
 # Write-up
 
+[Rapid testing](rapid-tests-bd.md)
+
 [Targeting social protection](targeting_social_protection.md)
 
 [Pharma indusry mess](big_pharma_tactics.md)
