@@ -1,5 +1,7 @@
 # Write-up
 
+[Jute mills](jute-mills-close.md)
+
 [Rapid testing](rapid-tests-bd.md)
 
 [Targeting social protection](targeting_social_protection.md)
