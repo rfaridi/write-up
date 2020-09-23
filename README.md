@@ -4,6 +4,10 @@
 
 [English news archive](./news-archive/news_archive_master_eng.md)
 
+[Onion price](./news-archive/news_archive_onion_eng.md)
+
+
+
 # Write-up
 
 [Jute mills](jute-mills-close.md)
