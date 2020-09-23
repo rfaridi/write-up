@@ -2,6 +2,8 @@
 
 [Bangla news archive](./news-archive/news_archive_master_bangla.md)
 
+[English news archive](./news-archive/news_archive_master_eng.md)
+
 # Write-up
 
 [Jute mills](jute-mills-close.md)
