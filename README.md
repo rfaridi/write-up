@@ -1,40 +1,50 @@
 # News archive
 
+## Bangla news archive 
+
 [Bangla news archive](./news-archive/news_archive_master_bangla.md)
+
+## English news archive 
 
 [English news archive](./news-archive/news_archive_master_eng.md)
 
-[Onion price](./news-archive/news_archive_onion_eng.md)
-
-
+[Onion price on the news](./news-archive/news_archive_onion_eng.md)
 
 # Write-up
 
-[Jute mills](jute-mills-close.md)
-
-[Rapid testing](rapid-tests-bd.md)
-
-[Targeting social protection](targeting_social_protection.md)
-
-[Pharma indusry mess](big_pharma_tactics.md)
+## DU
 
 [Teaching academia conflict](Teaching_research_conflict.md)
 
-[Judicial independence](judicial-independence.md)
+## Economy
 
-[TN Sheshan](tnshesha_2017.md)
+[Jute mills](./Economy/jute-mills-close.md)
 
-[Cholera Goneria](cholera_goneria.md)
+[Targeting social protection](./Economy/targeting_social_protection.md)
 
-[Oil and Gas](oil_gas.md)
+[Pharma indusry mess](./Economy/big_pharma_tactics.md)
 
-[Mahathir and democracy](mahathir_democracy.pdf)
+[Oil and Gas](./Economy/oil_gas.md)
 
-[Road construction cost](road_construction.pdf)
+[Rice price anomaly](./Economy/rice_price_anomaly.md)
 
-[Indian rupee ban](indian_rupee_ban.md)
+[Road construction cost](./Economy/road_construction.pdf)
 
-[Rice price anomaly](rice_price_anomaly.md)
+[Indian rupee ban](./Economy/indian_rupee_ban.md)
 
-[What democracy](what_democracy.md)
+## Health
+
+[Rapid testing](./Health/rapid-tests-bd.md)
+
+## Politics 
+
+[Judicial independence](./Politics/judicial-independence.md)
+
+[TN Sheshan](./Politics/tnshesha_2017.md)
+
+[Cholera Goneria](./Politics/cholera_goneria.md)
+
+[Mahathir and democracy](./Politics/mahathir_democracy.pdf)
+
+[What democracy](./Politics/what_democracy.md)
 
