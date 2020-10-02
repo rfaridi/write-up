@@ -1,3 +1,14 @@
+While searching on the net browsing for news on onion prices, an interesting piece of news came to my radar. It was a report published on the Daily Star, December 02, 2019 about the Jatiya Sangshad proceedings. Tofail Ahmed, chairman of parliament standing comittee on commerce said there was no syndicate in the onion market and the prices of the bulb could not be brought down by force.
+
+By far, this was the most sensible comment I have ever heard by an influentail politics and a Minister holding important position.
+
+
+As an economics teacher, in first year of economics, in the very first year we teach them about perfectly competitive market. Particularly in a competitive market. Onion has the all the hallmark of a textbook case of nearly perfectly competitive market. It has identical products, many buyers and sellers and free entry and exit. An individual businessman has very limited power to control the market.
+
+Therefore, I feel personally sad whenever I see the topic of syndicate comes up in the discussion of onion price. The standard belief among policy makers and general populace is that unscrupulous businessman are taking advantage of the situation and ripping high benefits from spiralling price.
+
+Well, I will argue that this is downright false. It is nearly impossible in the onion market to control individual business to control the market. 
+
 The current increase in onion price is not surprising. What is surprising is the reaction of our policy makers and even the common man. Everybody knows the price increase happened due to India's export ban. Bangladesh being the chief importer of onion from India and good chunk of demand is being met from that import, its no wonder that Bangladesh experiences price hike when India bans export. Its economics 101, India's ban reduces imports, creates shortage in local market, drives up the prices. 
 
 But our response to India's step is quite baffling. Our politicians are kind of upset like you are upset with your lover or friend, he/she could not have done this to me like attitude. General public ramps up the anti-India sentiment. Nothing does not make any sense. 
@@ -16,7 +27,7 @@ The way Bangladesh reacts to this policy of India is amusing at best and frustra
 
 What happens in the mean time is people suffer. In Bangldesh, the well-offs, elites can do away with a high price of onion but many poverty stricken people can not. Particularly, those with businesses running small restaurants, its a really big burden. But from the government level there is no systematic response to this yearly event.
 
-Its mind boggling that people in the highest possible desicion making do not understand that you just can not control a market by punishing businessman. The market can only be controlled by the playbook of a market. Particularly in a competitive market. Onion has the all the hallmark of a textbook case of nearly perfectly competitive market. It has identical products, many buyers and sellers and free entry and exit. An individual businessman has very limited power to control the market.
+Its mind boggling that people in the highest possible desicion making do not understand that you just can not control a market by punishing businessman. According to a report in Dhaka Tribune Sep 17, 2020, three onion traders weren fined Tk 2000 in Dinajpur. In Benapole, three more onion traders were penalized Tk 30000. In Lakhipur, a mobile court fined two wholesalers Tk 6000 for selling onions.  The market can only be controlled by the playbook of a market. Particularly in a competitive market. Onion has the all the hallmark of a textbook case of nearly perfectly competitive market. It has identical products, many buyers and sellers and free entry and exit. An individual businessman has very limited power to control the market.
 
 Therefore its foolish to look for syndicate in a highly competitive market such as onion. Rather, look at the source of the problem. The problem stems from the fact that there is some serious imbalance in the supply and demand. Whenever supply exceeds demand price starts to fall, whenever supply falls below demand, price starts to go up. If government starts to increase supply in the market, there is no reason why the price will start to go down.
 
