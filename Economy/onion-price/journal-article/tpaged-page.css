@@ -1,0 +1,41 @@
+/* page size: this sets the size of the page */
+@page {
+  size: 8.27in 11.69in; /* var(--pagedjs-width) doesn't work in browser when printing */
+}
+
+/* the following sets what is happening in the title page, particularly
+ * setting the cover image 
+@page :first {
+  background-image: var(--front-cover);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+*/
+/* The following code will insert page number in every pages of the document */
+
+@page{
+    @bottom-left{
+	content: counter(page);
+    }
+}
+
+/*
+
+.level1 {
+  page: chapter;
+} 
+*/
+
+/* In the following we reset the page counter to start from the very first page from introduction 
+ * chapter. What I have found after experimenting is that I need exact following specification 
+ * .main is the class for the main content, 
+ * */
+.main  .level1:first-child h1 {
+  counter-reset: page;
+}
+
+/* in the page source I have found that the following class .level1 has been probably predefined. 
+ * after including it, there is page break before every chapter starts */ 
+
+
